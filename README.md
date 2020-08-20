@@ -9,6 +9,7 @@
 Note:
   >> Description prompt cannot be entered with line break.
       For example, this will not work:
+      
         "This is the 1st paragraph... blah blah......
       
           This is the 2nd paragraph ....blah blah......."

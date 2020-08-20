@@ -14,4 +14,4 @@ Note:
       
           This is the 2nd paragraph ....blah blah......."
   >> Genre should enter in the format:
-        <genre1>, <genre2>, ..., <genreN>
+        genre1, genre2, ..., genreN

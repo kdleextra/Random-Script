@@ -1,4 +1,4 @@
-details = open('detail.json','w')
+details = open('details.json','w')
 
 result = '{\n'
 
